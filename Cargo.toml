@@ -1,0 +1,12 @@
+[dependencies]
+fs3 = "0.5"
+tempfile = "3"
+
+[package]
+categories = ["development-tools::testing"]
+description = "Testing utilities"
+edition = "2018"
+keywords = ["fixture"]
+license = "MIT OR Apache-2.0"
+name = "hide-glue"
+version = "0.1.0"

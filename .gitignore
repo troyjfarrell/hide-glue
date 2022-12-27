@@ -1,0 +1,5 @@
+# Do not commit build artifacts.
+/target
+
+# This is a library.  Do not commit Cargo.lock.
+Cargo.lock
